@@ -1,0 +1,2 @@
+Une application mobile qui nous permet de savoir quels parkings sont ouverts avec son nombre de places restantes. L'idée de cette application web repose sur une API Open Data qui nous permet d'avoir des données en temps réel. Ce projet a été réalisé en utilisant des FrameWorks commes Angular et Java Spring Boot. 
+![image](https://github.com/nguyenle2018/APP_Mobile_Parking_Nantes/assets/102188209/5f4d78de-1464-404f-a507-b6acccfd8dad)
